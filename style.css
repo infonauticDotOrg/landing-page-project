@@ -126,7 +126,7 @@ ul{
 
 .quotes{
     background-color: #E5E7EB;
-    padding:130px 100px;
+    padding:90px 100px;
 }
 
 .quote{
@@ -135,7 +135,7 @@ ul{
     color:#1F2937;
     font-style: italic;
     text-align:left;
-    padding: 8% 8% 8% 8%;
+    padding: 4% 8% 4% 8%;
 }
 
 .attribution{
@@ -143,6 +143,7 @@ ul{
     font-weight:bold;
     font-size:30px;
     margin-top:5px;
+    padding: 0 4% 0 4%;
 }
 
 .box-text{
