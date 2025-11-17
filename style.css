@@ -1,18 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-
 body{
     font-family:Roboto, serif;
 }
 
 li{
     list-style-type: none;
-
 }
 
 a{
     text-decoration: none;
-    color:grey;
+    color:#f9faf8
 }
 
 ul{
@@ -22,13 +20,13 @@ ul{
 
 .header{
     display:flex;
-    border:solid pink;
     justify-content: space-between;
     align-items: center;
+    background-color:#1F2937;
+    color:#f9faf8
 }
 
 .header-links ul{
-    border:solid red;
     align-items:center;
     gap:20px;
     justify-content:center;
