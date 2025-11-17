@@ -59,6 +59,7 @@ ul{
     gap: 8px;
     display:flex;
     flex-direction:column;
+    flex:1;
 }
 
 .main{
@@ -90,8 +91,10 @@ ul{
     text-align:center;
     background-color: gray;
     align-items: center;
+    justify-content:center;
     height: auto;
     align-self: stretch;
+    flex:1;
 }
 
 .information{
