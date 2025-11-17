@@ -155,26 +155,24 @@ ul{
 .call-to-action{
     margin:130px;
     display:flex;
-    height:230px;
-    flex-basis:660px;
     background-color: white;
-    justify-content: center;
+    justify-content: space-between;
     background-color: #3882F6;
     border-radius: 10px;
+    padding: 5% 5%;
 }
 
 .cta-box{
     display:flex;
     flex-direction:column;
     justify-content: center;
-    padding: 50px;
-    flex-basis: 660px;
 }
 
 .cta-header{
     color:#f9faf8;
     font-weight:600;
     font-size:26px;
+    flex-shrink:0;
 }
 
 .cta-sub{
@@ -182,18 +180,14 @@ ul{
     font-weight:300;
 }
 
-.button-container{
-    display:flex;
-}
-
 .cta-button{
     align-self:center;
     background-color: #3882F6;
     border:solid white;
-    padding:10px 30px;
+    padding:2% 7%;
     border-radius: 10px;
     color:#f9faf8;
-    margin:0 100px;
+    margin:0 10px;
     cursor: pointer;
     flex-shrink:0;
 }
