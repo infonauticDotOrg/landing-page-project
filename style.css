@@ -29,7 +29,7 @@ ul{
     align-items: center;
     background-color:#1F2937;
     color:#f9faf8;
-    padding: 2% 8% 0 8%;
+    padding: 2% 14% 2% 14%;
 }
 
 .logo{
@@ -50,7 +50,7 @@ ul{
     align-items: center;
     gap:50px;
     justify-content: space-around;
-    padding: 14% 8% 8% 8%;
+    padding: 8% 14% 8% 14%;
 }
 
 .text-left{
@@ -106,7 +106,7 @@ ul{
 
 .body-blocks{
     display:flex;
-    gap: 55px;
+    gap: 65px;
     justify-content: center;
 }
 
